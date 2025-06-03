@@ -4,3 +4,5 @@ and now let's check what happened
 
 i have made a silly mistake.
 let's have sum fun.
+
+merge conflict( in case of that).
